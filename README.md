@@ -4,6 +4,11 @@
 ![image-2](image-1.png)
 ![image-3](image-2.png)
 
+ # Description
+  This feature-packed app enables users to effortlessly sign up and sign in using their email or Google account. With a seamless interface, users can browse, create, update, and delete property listings, providing a complete CRUD experience.
+ 
+
+
 # Installation
 1. Install all dependencies with `npm install`
 2. cd into your repositore folder and run `run start`
